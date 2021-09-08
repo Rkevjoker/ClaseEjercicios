@@ -1,0 +1,7 @@
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\ClaseEjercicios\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

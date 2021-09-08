@@ -8,25 +8,32 @@ namespace Ejercicio1.Entidad
 {
     class ClsCompra
     {
-        private string dia;
+        private int dia;
         private double compra;
         private double descuento;
-        private double total1;
-        private double total2;
+        private double total;
 
-        public ClsCompra(string dia, double compra, double descuento, double total1, double total2)
+        public ClsCompra()
+        {
+        }
+
+        public ClsCompra(double compra, int dia)
+        {
+            this.compra = compra;
+            this.dia = dia;
+        }
+
+        public ClsCompra(int dia, double compra, double descuento, double total)
         {
             this.Dia = dia;
             this.Compra = compra;
             this.Descuento = descuento;
-            this.Total1 = total1;
-            this.Total2 = total2;
+            this.Total = total;
         }
 
-        public string Dia { get => dia; set => dia = value; }
+        public int Dia { get => dia; set => dia = value; }
         public double Compra { get => compra; set => compra = value; }
         public double Descuento { get => descuento; set => descuento = value; }
-        public double Total1 { get => total1; set => total1 = value; }
-        public double Total2 { get => total2; set => total2 = value; }
+        public double Total { get => total; set => total = value; }
     }
 }
